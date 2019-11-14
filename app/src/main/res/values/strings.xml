@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trabalho02</string>
+    <string name="Button1Main1">Login</string>
+    <string name="Button2Main1">Registrar</string>
+    <string name="var_name">NOME</string>
+    <string name="var_CPF">CPF</string>
+    <string name="var_cancelar">CANCELAR</string>
+    <string name="var_registrar">REGISTRAR</string>
+    <string name="var_login">LOGIN</string>
+    <string name="var_passwd">PASSWORD</string>
+</resources>
